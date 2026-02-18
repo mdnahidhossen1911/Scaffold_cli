@@ -16,3 +16,8 @@ dev_dependencies:
 
 executables:
   scaffold: scaffold
+
+
+repository: https://github.com/mdnahidhossen1911/scaffold_cli
+issue_tracker: https://github.com/mdnahidhossen1911/scaffold_cli/issues
+homepage: https://github.com/mdnahidhossen1911/scaffold_cli
