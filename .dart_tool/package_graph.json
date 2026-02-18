@@ -1,0 +1,107 @@
+{
+  "roots": [
+    "scaffold_cli"
+  ],
+  "packages": [
+    {
+      "name": "scaffold_cli",
+      "version": "1.0.0",
+      "dependencies": [
+        "ansi_styles",
+        "args",
+        "path",
+        "process_run"
+      ],
+      "devDependencies": [
+        "lints"
+      ]
+    },
+    {
+      "name": "lints",
+      "version": "3.0.0",
+      "dependencies": []
+    },
+    {
+      "name": "path",
+      "version": "1.9.1",
+      "dependencies": []
+    },
+    {
+      "name": "ansi_styles",
+      "version": "0.3.2+1",
+      "dependencies": []
+    },
+    {
+      "name": "args",
+      "version": "2.7.0",
+      "dependencies": []
+    },
+    {
+      "name": "process_run",
+      "version": "0.13.3+1",
+      "dependencies": [
+        "args",
+        "collection",
+        "meta",
+        "path",
+        "pub_semver",
+        "string_scanner",
+        "synchronized",
+        "yaml"
+      ]
+    },
+    {
+      "name": "yaml",
+      "version": "3.1.3",
+      "dependencies": [
+        "collection",
+        "source_span",
+        "string_scanner"
+      ]
+    },
+    {
+      "name": "string_scanner",
+      "version": "1.4.1",
+      "dependencies": [
+        "source_span"
+      ]
+    },
+    {
+      "name": "pub_semver",
+      "version": "2.2.0",
+      "dependencies": [
+        "collection"
+      ]
+    },
+    {
+      "name": "collection",
+      "version": "1.19.1",
+      "dependencies": []
+    },
+    {
+      "name": "source_span",
+      "version": "1.10.2",
+      "dependencies": [
+        "collection",
+        "path",
+        "term_glyph"
+      ]
+    },
+    {
+      "name": "term_glyph",
+      "version": "1.2.2",
+      "dependencies": []
+    },
+    {
+      "name": "synchronized",
+      "version": "3.4.0",
+      "dependencies": []
+    },
+    {
+      "name": "meta",
+      "version": "1.18.1",
+      "dependencies": []
+    }
+  ],
+  "configVersion": 1
+}
