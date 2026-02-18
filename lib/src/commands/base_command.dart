@@ -1,5 +1,3 @@
-import 'dart:io';
-import '../logger.dart';
 
 abstract class CliCommand {
   String get name;

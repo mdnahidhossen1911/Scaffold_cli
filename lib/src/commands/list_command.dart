@@ -1,6 +1,5 @@
 import 'base_command.dart';
 import '../logger.dart';
-import '../structure_selector.dart';
 
 class ListCommand extends CliCommand {
   @override
